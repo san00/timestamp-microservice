@@ -1,7 +1,7 @@
 Timestamp microservice
 =========================
 Build a full stack JavaScript app that is functionally similar to [this](https://timestamp-ms.herokuapp.com/) and deploy to glitch.
-Part of the [FCC](www.freecodecamp.org) Backend development API Projects
+Part of the [FCC](https://www.freecodecamp.org) Backend development API Projects
 
 User story
 ------------
